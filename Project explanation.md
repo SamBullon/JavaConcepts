@@ -1,4 +1,5 @@
 # JavaConcepts
-This is a Java project split in packages for each concept that will help you understand the basics of Java
-I have included comments on each file for better understanding
-If you are a Java develiper starter this is for you
+This project will walk you through the basic concepts of Java so if you want to start yourself in Java this your place
+
+Just some headsup
+I have split each concepts into packages with comments on top of every code snippet for better understanding
